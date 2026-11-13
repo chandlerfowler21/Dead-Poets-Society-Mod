@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dead-poets-society-mod:item/dead_poets_society_mod_logo"
+  }
+}

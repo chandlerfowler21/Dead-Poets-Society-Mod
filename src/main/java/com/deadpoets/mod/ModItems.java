@@ -10,6 +10,9 @@ public class ModItems {
             new Item(new Item.Properties())
     );
 
+    public static final Item MOD_LOGO = register("mod_logo",
+            new Item(new Item.Properties()));
+
     private static Item register(String name, Item item) {
         return Registry.register(
                 BuiltInRegistries.ITEM,

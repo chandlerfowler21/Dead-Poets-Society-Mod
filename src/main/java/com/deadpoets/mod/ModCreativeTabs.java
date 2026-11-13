@@ -19,7 +19,7 @@ public class ModCreativeTabs {
                                     "itemGroup.dead-poets-society"
                             ))
                             .icon(() -> new ItemStack(
-                                    ModItems.DEAD_POETS_BOOK
+                                    ModItems.MOD_LOGO
                             ))
                             .displayItems((parameters, output) -> {
                                 output.accept(ModItems.DEAD_POETS_BOOK);
